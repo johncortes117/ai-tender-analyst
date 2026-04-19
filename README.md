@@ -89,6 +89,7 @@ cp .env.example .env
 uv run uvicorn app.api.main:app --reload
 ```
 
+
 ### 2. Frontend Setup
 
 ```bash
